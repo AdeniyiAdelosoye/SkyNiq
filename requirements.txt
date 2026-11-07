@@ -1,0 +1,11 @@
+# Weather Information App - Required Dependencies
+#
+# This project requires Python 3 and the requests library.
+#
+# To install the required dependencies, run:
+# pip install -r requirements.txt
+#
+# Tkinter is used for the graphical interface and is
+# normally included with standard Python installations.
+
+requests
